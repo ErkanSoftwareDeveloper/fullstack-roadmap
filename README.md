@@ -27,7 +27,7 @@ As I progress, I will update each item from **[ ] to [x]**.
   - [ ] HackerRank
   - [ ] CodeSignal
   - [x] Python Basic
-  - [ ] Java Basic
+  - [x] Java Basic
   - [ ] C# Basic
         
 
@@ -103,10 +103,10 @@ As I progress, I will update each item from **[ ] to [x]**.
 
 ## 🌟 7. Version Control & Team Collaboration
 - [x] Learn Git branching strategies
-- [ ] Create pull requests
-- [ ] Code reviews
-- [ ] Issue tracking
-  - [ ] GitHub Issues
+- [x] Create pull requests
+- [x] Code reviews
+- [x] Issue tracking
+  - [x] GitHub Issues
   - [ ] Jira (optional)
 
 ---
