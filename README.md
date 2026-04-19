@@ -13,14 +13,14 @@ As I progress, I will update each item from **[ ] to [x]**.
 ## 🌟 1. Core Programming & Algorithms
 - [ ] Master a programming language (Python / JavaScript / Java / C#)
 - [ ] Data Structures
-  - [ ] Arrays
-  - [ ] Linked Lists
-  - [ ] Stacks
-  - [ ] Queues
-  - [ ] HashMap / Dictionary
-- [ ] Algorithms
-  - [ ] Sorting algorithms
-  - [ ] Searching algorithms
+  - [x] Arrays
+  - [x] Linked Lists
+  - [x] Stacks
+  - [x] Queues
+  - [x] HashMap / Dictionary
+- [x] Algorithms
+  - [x] Sorting algorithms
+  - [x] Searching algorithms
   - [ ] Big-O notation
 - [ ] Problem-solving practice
   - [ ] LeetCode
@@ -36,11 +36,11 @@ As I progress, I will update each item from **[ ] to [x]**.
 ## 🌟 2. Web Development Fundamentals
 - [x] HTML
 - [x] CSS
-- [ ] Basic JavaScript
+- [x] Basic JavaScript
 - [ ] Responsive Design
 - [ ] DOM Manipulation
 - [ ] Event Handling
-- [ ] Understanding HTTP
+- [x] Understanding HTTP
 - [x] Understanding REST APIs
 - [x] JSON / XML
 
@@ -83,7 +83,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 - [x] GitHub workflow
 - [ ] Docker basics
 - [ ] CI/CD
-  - [ ] GitHub Actions
+  - [x] GitHub Actions
 - [ ] Deployment platforms
   - [ ] Vercel
   - [ ] Render
@@ -112,7 +112,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 ---
 
 ## 🌟 8. Cloud & Modern Architectures
-- [ ] Cloud basics (AWS / GCP / Azure)
+- [x] Cloud basics (AWS / GCP / Azure)
 - [ ] Serverless architecture
 - [ ] Microservices (advanced)
 - [ ] Message Queues (Kafka / RabbitMQ)
@@ -123,7 +123,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 ## 🌟 9. Soft Skills & Work Habits
 - [ ] Problem-solving skills
 - [ ] Teamwork & communication
-- [ ] Clean code practices
+- [x] Clean code practices
 - [ ] Basic system design understanding
 
 ---
