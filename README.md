@@ -12,7 +12,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 
 ## 🌟 1. Core Programming & Algorithms
 - [ ] Master a programming language (Python / JavaScript / Java / C#)
-- [ ] Data Structures
+- [x] Data Structures
   - [x] Arrays
   - [x] Linked Lists
   - [x] Stacks
@@ -24,11 +24,11 @@ As I progress, I will update each item from **[ ] to [x]**.
   - [ ] Big-O notation
 - [ ] Problem-solving practice
   - [ ] LeetCode
-  - [ ] HackerRank
+  - [x] HackerRank
   - [ ] CodeSignal
   - [x] Python Basic
   - [x] Java Basic
-  - [ ] C# Basic
+  - [x] C# Basic
         
 
 ---
