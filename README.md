@@ -121,10 +121,10 @@ As I progress, I will update each item from **[ ] to [x]**.
 ---
 
 ## 🌟 9. Soft Skills & Work Habits
-- [ ] Problem-solving skills
-- [ ] Teamwork & communication
+- [x] Problem-solving skills
+- [x] Teamwork & communication
 - [x] Clean code practices
-- [ ] Basic system design understanding
+- [x] Basic system design understanding
 
 ---
 
