@@ -81,7 +81,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 ## 🌟 5. DevOps & Deployment
 - [x] Learn Git
 - [x] GitHub workflow
-- [ ] Docker basics
+- [x] Docker basics
 - [ ] CI/CD
   - [x] GitHub Actions
 - [ ] Deployment platforms
