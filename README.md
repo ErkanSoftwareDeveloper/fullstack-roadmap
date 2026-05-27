@@ -66,7 +66,7 @@ As I progress, I will update each item from **[ ] to [x]**.
   - OR
   - [ ] Django / Flask
   - [ ] Spring Boot (optional)
-- [ ] Build REST APIs
+- [x] Build REST APIs
 - [ ] Authentication & Authorization
   - [ ] JWT
   - [ ] OAuth2 (optional)
@@ -86,7 +86,7 @@ As I progress, I will update each item from **[ ] to [x]**.
   - [x] GitHub Actions
 - [ ] Deployment platforms
   - [ ] Vercel
-  - [ ] Render
+  - [x] Render
   - [ ] AWS / GCP (optional)
 
 ---
