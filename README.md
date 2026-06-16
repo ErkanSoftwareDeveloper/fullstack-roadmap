@@ -82,7 +82,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 - [x] Learn Git
 - [x] GitHub workflow
 - [x] Docker basics
-- [ ] CI/CD
+- [x] CI/CD
   - [x] GitHub Actions
 - [ ] Deployment platforms
   - [ ] Vercel
