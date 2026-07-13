@@ -68,7 +68,7 @@ As I progress, I will update each item from **[ ] to [x]**.
   - [ ] Spring Boot (optional)
 - [x] Build REST APIs
 - [ ] Authentication & Authorization
-  - [ ] JWT
+  - [x] JWT
   - [ ] OAuth2 (optional)
 - [x] Databases (Basic)
   - [x] SQL (MySQL or PostgreSQL)
