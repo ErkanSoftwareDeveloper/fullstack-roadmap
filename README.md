@@ -62,14 +62,14 @@ As I progress, I will update each item from **[ ] to [x]**.
 
 ## 🌟 4. Backend & Database
 - [ ] Choose a backend technology
-  - [ ] Node.js + Express
+  - [x] Node.js + Express
   - OR
   - [ ] Django / Flask
   - [ ] Spring Boot (optional)
 - [x] Build REST APIs
 - [ ] Authentication & Authorization
   - [x] JWT
-  - [ ] OAuth2 (optional)
+  - [x] OAuth2 (optional)
 - [x] Databases (Basic)
   - [x] SQL (MySQL or PostgreSQL)
   - [ ] NoSQL (MongoDB)
