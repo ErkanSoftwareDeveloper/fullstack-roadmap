@@ -2,7 +2,7 @@
 A repository for becoming a Full Stack Developer (notes and more)
 
 
-# 🚀 Full Stack Developer Roadmap
+# Full Stack Developer Roadmap
 
 This repository tracks my journey to becoming a Full Stack Developer.  
 Below is an organized checklist of everything I plan to learn.  
