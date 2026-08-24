@@ -29,6 +29,7 @@ As I progress, I will update each item from **[ ] to [x]**.
   - [x] Python Basic
   - [x] Java Basic
   - [x] C# Basic
+  - [x] Unity 3D Basic
         
 
 ---
@@ -85,7 +86,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 - [x] CI/CD
   - [x] GitHub Actions
 - [ ] Deployment platforms
-  - [ ] Vercel
+  - [x] Vercel
   - [x] Render
   - [ ] AWS / GCP (optional)
 
