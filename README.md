@@ -93,7 +93,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 ---
 
 ## 🌟 6. Testing & Code Quality
-- [ ] Unit Testing (PyTest / Jest / JUnit)
+- [x] Unit Testing (PyTest / Jest / JUnit)
 - [ ] Integration Testing
 - [ ] Understand TDD (Test Driven Development)
 - [ ] Code Formatting & Linting
