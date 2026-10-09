@@ -49,7 +49,7 @@ As I progress, I will update each item from **[ ] to [x]**.
 
 ## 🌟 3. Modern Frontend Technologies
 - [ ] Learn React
-- [ ] Understanding components
+- [x] Understanding components
 - [ ] Learn React Hooks
 - [ ] State management
   - [ ] Context API
